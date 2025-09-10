@@ -1,29 +1,30 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A CS Engineer | Flutter Developer | AI Explorer | UI/UX Enthusiast</h3>
+<h3 align="center">A CS Engineer | Learning Flutter | AI Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F78A&center=true&lines=Learning+Machine+Learning+🧠;Building+Apps+with+Flutter+🚀;Dreaming+of+J.A.R.V.I.S+AI+🤖;Making+Debugging+Look+Cool+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F78A&center=true&lines=Crafting+Smooth+UI%2FUX+🎨;Learning+Machine+Learning+🧠;Exploring+Flutter+🚀;Dreaming+of+J.A.R.V.I.S+AI+🤖;Making+Debugging+Look+Cool+😎" />
 </p>
 
 ---
 
 ### 🔭 Currently Working On
-- 🚗 **College Shuttle Tracker App** (Driver + Student App)
-- 📡 Real-time GPS updates using **Mapbox + Firebase**
-- 🤖 Building a lightweight **AI Assistant** with multilingual support
-- 🎨 Improving **UI/UX** design skills (because aesthetics matter)
+- 🚗 **College Shuttle Tracker App** 
+- 💼 Building my **Portfolio**
+- 🐍 Learning **Python**
+- 🎨 Practicing **UI/UX Design**
 
 ---
 
 ### 🌱 Currently Learning
 - 📱 Flutter & Firebase
-- 🧠 Machine Learning (in Hinglish, because math 🥲)
-- 🗣️ Natural Language Processing & voice interaction
+- 🧠 Python 
+- 🎨 UI/UX Design (from concept → prototype → product)
+- 🛡️ Cyber Security basics
 - 🧩 System design & clean code architecture
 
 ---
 
-### 💼 [My Resume](https://drive.google.com/file/d/1Npe-lQiwtza5NDzY4e5fQ5KA5BcH1tz2/view?usp=sharing)
+### 💼 [My Resume](https://drive.google.com/file/d/1ga4tfQ4n_lKxKZj96gzeakzi3Gi_4AB7/view?usp=sharing)
 📌 *(Click above to view/download)*
 
 ---
@@ -40,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
 ---
@@ -50,12 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XADITYAM&show_icons=true&theme=tokyonight" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XADITYAM&layout=compact&theme=tokyonight" height="170px"/>
 </p>
-
----
-
-### 🦸 Fun Fact
-> I’m not saying I’m building J.A.R.V.I.S...  
-> ...but my laptop’s starting to talk back. 😏
 
 ---
 
