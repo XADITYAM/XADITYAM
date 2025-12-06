@@ -24,7 +24,7 @@
 
 ---
 
-### 💼 [My Resume](https://drive.google.com/file/d/1ga4tfQ4n_lKxKZj96gzeakzi3Gi_4AB7/view?usp=sharing)
+### 💼 [My Resume](https://drive.google.com/file/d/1nKwHXkFmF6PIdnn5vDQrtSD3nfFixUD5/view?usp=sharing)
 📌 *(Click above to view/download)*
 
 ---
