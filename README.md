@@ -13,6 +13,11 @@
 
 ---
 
+### 🚀 Portfolio
+Check out my full portfolio, featuring SmartBill and my other work → **[xadityam.github.io](https://xadityam.github.io)**
+
+---
+
 ### 🔭 Currently Working On
 - 🧾 **SmartBill** — a multi-tenant billing app (Flutter + Supabase) live with two real businesses, with barcode scanning, invoicing, and analytics dashboards
 - 🎯 Applying for SDE / QA roles — recently interviewed for **Associate QA Tester** at Rockstar Games India
@@ -32,6 +37,12 @@
 
 ### ⚡ Fun Fact
 Built a billing app now running two real businesses — while also freelancing as a YouTube video editor on the side.
+
+---
+
+### 🌟 Featured Project
+
+**[SmartBill](https://github.com/XADITYAM/smart-bill-showcase)** — a multi-tenant Flutter + Supabase billing app, live in production with two real businesses. Handles invoicing, barcode scanning, and per-tenant data isolation via Postgres RLS.
 
 ---
 
