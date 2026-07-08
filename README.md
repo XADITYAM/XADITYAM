@@ -19,8 +19,8 @@ Check out my full portfolio, featuring SmartBill and my other work → **[xadity
 ---
 
 ### 🔭 Currently Working On
-- 🧾 **SmartBill** — a multi-tenant billing app (Flutter + Supabase) live with two real businesses, with barcode scanning, invoicing, and analytics dashboards
-- 🎯 Applying for SDE / QA roles — recently interviewed for **Associate QA Tester** at Rockstar Games India
+- **SmartBill** — a multi-tenant billing app (Flutter + Supabase) live with two real businesses, with barcode scanning, invoicing, and analytics dashboards.
+- AI-powered voice cloning & emotion-aware TTS
 
 ### 🤝 Looking to Collaborate On
 - Flutter or Supabase-backed projects, especially real-world tools for small businesses
